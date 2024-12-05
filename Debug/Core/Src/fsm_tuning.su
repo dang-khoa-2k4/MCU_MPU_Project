@@ -1,0 +1,7 @@
+../Core/Src/fsm_tuning.c:13:6:save_time	4	static
+../Core/Src/fsm_tuning.c:20:13:color_press_handler	8	static
+../Core/Src/fsm_tuning.c:48:6:update_light_time	8	static
+../Core/Src/fsm_tuning.c:54:13:clone_time	4	static
+../Core/Src/fsm_tuning.c:61:6:tuning_init	8	static
+../Core/Src/fsm_tuning.c:69:6:tuning_run	8	static
+../Core/Src/fsm_tuning.c:116:6:tuning_generate_lcd_data	16	static

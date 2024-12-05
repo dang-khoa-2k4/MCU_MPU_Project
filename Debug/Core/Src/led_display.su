@@ -1,0 +1,8 @@
+../Core/Src/led_display.c:17:13:amber	16	static
+../Core/Src/led_display.c:23:13:green	16	static
+../Core/Src/led_display.c:29:13:red	16	static
+../Core/Src/led_display.c:35:13:off_light	16	static
+../Core/Src/led_display.c:41:6:light_off_all	8	static
+../Core/Src/led_display.c:47:6:light_toggle	16	static
+../Core/Src/led_display.c:77:6:light_1_handle	16	static
+../Core/Src/led_display.c:96:6:light_2_handle	16	static

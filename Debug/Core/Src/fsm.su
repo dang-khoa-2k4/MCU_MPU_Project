@@ -1,0 +1,4 @@
+../Core/Src/fsm.c:9:13:mode_press_handler	8	static
+../Core/Src/fsm.c:36:6:fsm_init	4	static
+../Core/Src/fsm.c:42:6:fsm_run	8	static
+../Core/Src/fsm.c:76:6:timeout_handler	8	static

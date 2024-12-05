@@ -1,0 +1,4 @@
+../Core/Src/fsm_auto.c:17:6:automatic_init	4	static
+../Core/Src/fsm_auto.c:29:13:count_down	8	static
+../Core/Src/fsm_auto.c:51:6:automatic_generate_lcd_data	16	static
+../Core/Src/fsm_auto.c:59:6:automatic_run	8	static

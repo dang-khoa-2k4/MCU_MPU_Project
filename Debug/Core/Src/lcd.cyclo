@@ -1,0 +1,10 @@
+../Core/Src/lcd.c:5:16:lcd_send_cmd	2
+../Core/Src/lcd.c:23:16:lcd_send_data	2
+../Core/Src/lcd.c:40:6:lcd_backlight_on	1
+../Core/Src/lcd.c:47:6:lcd_init	1
+../Core/Src/lcd.c:85:6:lcd_send_string	2
+../Core/Src/lcd.c:93:6:lcd_clear	1
+../Core/Src/lcd.c:99:6:lcd_set_cursor	4
+../Core/Src/lcd.c:114:6:lcd_display_number	1
+../Core/Src/lcd.c:121:13:generate_str_from_mode	5
+../Core/Src/lcd.c:140:6:lcd_display_mode	5

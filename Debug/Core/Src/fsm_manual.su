@@ -1,0 +1,4 @@
+../Core/Src/fsm_manual.c:6:13:color_press_handler	8	static
+../Core/Src/fsm_manual.c:32:6:manual_init	4	static
+../Core/Src/fsm_manual.c:39:6:manual_generate_lcd_data	16	static
+../Core/Src/fsm_manual.c:64:6:manual_run	8	static
